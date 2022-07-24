@@ -1,0 +1,7 @@
+﻿<h2>Main Page</h2>
+<h3>Cookies</h3>
+
+@foreach(var item in @Context.Request.Cookies)
+{
+    <div>@item.Key: @item.Value</div>
+}

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Parameters_DI", "3-Parame
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ResourceFilter", "4-ResourceFilter\4-ResourceFilter.csproj", "{14859D02-B132-41FB-BD7E-53CDFBAE859A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-ActionFilter", "5-ActionFilter\5-ActionFilter.csproj", "{F3E8365C-9E0A-4340-B10E-22505C7571B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{14859D02-B132-41FB-BD7E-53CDFBAE859A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14859D02-B132-41FB-BD7E-53CDFBAE859A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14859D02-B132-41FB-BD7E-53CDFBAE859A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E8365C-9E0A-4340-B10E-22505C7571B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E8365C-9E0A-4340-B10E-22505C7571B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E8365C-9E0A-4340-B10E-22505C7571B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E8365C-9E0A-4340-B10E-22505C7571B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-ResourceFilter", "4-Resou
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-ActionFilter", "5-ActionFilter\5-ActionFilter.csproj", "{F3E8365C-9E0A-4340-B10E-22505C7571B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-ResultFilter", "6-ResultFilter\6-ResultFilter.csproj", "{5640EE8E-0F9C-495E-BA2E-F9A06D795DE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-ResultFilter", "6-ResultFilter\6-ResultFilter.csproj", "{5640EE8E-0F9C-495E-BA2E-F9A06D795DE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-ExceptionFilter", "7-ExceptionFilter\7-ExceptionFilter.csproj", "{72E49DFF-9249-4D33-BB9F-2A9A1A659BE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{5640EE8E-0F9C-495E-BA2E-F9A06D795DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5640EE8E-0F9C-495E-BA2E-F9A06D795DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5640EE8E-0F9C-495E-BA2E-F9A06D795DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E49DFF-9249-4D33-BB9F-2A9A1A659BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E49DFF-9249-4D33-BB9F-2A9A1A659BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E49DFF-9249-4D33-BB9F-2A9A1A659BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E49DFF-9249-4D33-BB9F-2A9A1A659BE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
